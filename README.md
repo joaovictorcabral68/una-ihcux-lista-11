@@ -1,1 +1,33 @@
-# una-ihcux-lista-11
+### Reciclo
+
+>Nesse projeto foi feito um site onde o objetivo é ajudar pessoas a doar itens que já não usam mais e ajudar pessoas a encontrar itens que elas precisam e desejam.
+
+>O principal beneficio é que além da pessoa estar liberando um espaço na casa dela e passando uma coisa pra frente que ela não usa mais ela também consegue ajudar alguém.
+
+### Tela 1
+
+Na primeira tela o usuário tem acesso onde ele vai cadastrar o item, falando um pouco sobre ele e adicionando fotos
+
+### Tela 2 
+
+Na segunda tela o usuário tem acesso onde ele pode procurar por itens e usar filtros como categoria e distancia para facilitar.
+
+### Tela 3 
+
+Na terceira tela o usuário tem acesso ao perfil do usuário que postou o produto, vendo sobre o perfil dele e a descrição do item postado.
+
+### Tela 4
+
+Na quarta tela o usuário tem acesso ao foemulario de doação que é onde ele vai preencher com suas informações e aceitar os termos de uso do aplicativo.
+
+### Tela 5
+
+Na quinta tela é o chat onde quem está interessado no item vai poder conversar diretamente com o doador.
+
+### Tela 6
+
+Na sexta tela é onde o usuário vai poder visualizar o seu perfil, vendo seu nível, seus selos e quantas doações foram feitas
+
+# Visualização do projeto 
+
+<img width="1656" height="603" alt="Sem título" src="https://github.com/user-attachments/assets/a16b7f26-51e1-4e8f-bfad-9fedb60891ff" />
